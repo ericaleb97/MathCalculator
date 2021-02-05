@@ -1,0 +1,7 @@
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\MathApps\MathFormulaCalculator\MathFormulaCalculator\bin\Debug\MathFormulaCalculator.exe.config
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\MathApps\MathFormulaCalculator\MathFormulaCalculator\bin\Debug\MathFormulaCalculator.exe
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\MathApps\MathFormulaCalculator\MathFormulaCalculator\bin\Debug\MathFormulaCalculator.pdb
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\MathApps\MathFormulaCalculator\MathFormulaCalculator\obj\Debug\MathFormulaCalculator.csprojAssemblyReference.cache
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\MathApps\MathFormulaCalculator\MathFormulaCalculator\obj\Debug\MathFormulaCalculator.exe
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\MathApps\MathFormulaCalculator\MathFormulaCalculator\obj\Debug\MathFormulaCalculator.pdb
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\MathApps\MathFormulaCalculator\MathFormulaCalculator\obj\Debug\MathFormulaCalculator.csproj.CoreCompileInputs.cache
