@@ -15,17 +15,19 @@ Sphere: 3
 
 Type the number 2 and we are given a choice to pick between area or volume. For this example, let's go with area. After choosing the units of measurement, we give a number for length and we will see our answer!
 
+### Calculate Distance of a projectile
+Let's select option 2 when we run the program. It's called Projectile Motion.
+What are you trying to find?
+Type one of the following:
+Initial Velocity & Air Time (Vertical): 1
+Air Time, Distance & Max Height: 2
+
 ### Tension in a string or rope
 We run the program and see the first window (MainWindow) pop up.
-
-### Calculate Distance of a projectile
-If we want something different from what's inside the title and main section, or want something more specific for our slide, we can write in the boldSearchTextBox
 
 ## Prerequisites
 
 ### What you'll need to run the code:
-
-* Microsoft Office (PowerPoint)
 
 * Visual Studio 2019 version 16.8.3 (16.8.30804.86)
 
