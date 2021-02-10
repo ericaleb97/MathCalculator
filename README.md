@@ -4,7 +4,16 @@ This application allows a user to calculate a wide variety of things ranging fro
 ## Examples
 
 ### Area of a cube
-If we do not wish to add an image to our slide, we can simply click the button labeled Create Slide once we have our desired text and it will be generated!
+Let's select option 1 when we run the program. It's called Shapes.
+
+From there, we will be prompted to select a shape from the menu:
+
+What is the shape?
+Cylinder: 1
+Cube: 2
+Sphere: 3
+
+Type the number 2 and we are given a choice to pick between area or volume. For this example, let's go with area. After choosing the units of measurement, we give a number for length and we will see our answer!
 
 ### Tension in a string or rope
 We run the program and see the first window (MainWindow) pop up.
